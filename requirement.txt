@@ -1,0 +1,2 @@
+pyautogui
+gspread
